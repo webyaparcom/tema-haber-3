@@ -1,0 +1,43 @@
+{
+  "name": {
+    "tr": "Kalite Politikamız",
+    "en": "Quality Policy",
+    "ar": "سياسة الجودة"
+  },
+  "status": "play",
+  "id": "kalitepolitikamiz",
+  "path": "kalitepolitikamiz",
+  "category": "",
+  "text": {
+    "tr": "<h2>Kalite Politikamız</h2>\n<p>Çift kaynak doğrulaması, değişmeyen ilk yayın tarihi, ayrı tarihli düzeltme ve açık künye kalite anlayışımızın temelidir.</p>",
+    "en": "<h2>Our quality policy</h2>\n<p>Two-source verification, an unchanged first-publication date, separately dated corrections and an open masthead are the basis of our quality approach.</p>",
+    "ar": "<h2>سياسة الجودة لدينا</h2>\n<p>التحقق بمصدرين وتاريخ النشر الأول الثابت والتصحيحات المؤرخة منفصلة وبيانات الإدارة المعلنة هي أساس نهجنا في الجودة.</p>"
+  },
+  "desing": {
+    "header": [],
+    "body": [
+      "2alvhi"
+    ],
+    "footer": []
+  },
+  "desc": {},
+  "index": 3,
+  "icon": "policy",
+  "title": {
+    "tr": "Kalite Politikamız",
+    "en": "Quality Policy",
+    "ar": "سياسة الجودة"
+  },
+  "description": {
+    "tr": "Kalite politikamız",
+    "en": "Our quality policy",
+    "ar": "سياسة الجودة لدينا"
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "update": "2026-10-31T15:04:21.781Z",
+  "date": "2026-05-19"
+}

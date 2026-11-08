@@ -1,0 +1,59 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Nokta Haber: yerel haber ve şehir rehberi; künye ana sayfadan erişilir, her haberde yayın tarihi yer alır. (Demo site — haberler kurgusaldır)",
+    "en": "Nokta Haber: local news and city guide; the masthead is reachable from the home page and every story shows its publication date. (Demo site — stories are fictional)",
+    "ar": "نقطة خبر: أخبار محلية ودليل المدينة؛ تُتاح بيانات الإدارة من الصفحة الرئيسية ويظهر تاريخ النشر في كل خبر. (موقع تجريبي — الأخبار افتراضية)"
+  },
+  "keyword": {
+    "tr": "haber, şehir rehberi, yerel haber",
+    "en": "news, city guide, local news",
+    "ar": "أخبار، دليل المدينة، أخبار محلية"
+  },
+  "category": "Kurumsal",
+  "name": "Nokta Haber",
+  "domain": "haber-3.webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "icon": "icon.png",
+  "theme_color": "#1D4ED8",
+  "publishMode": "static",
+  "phone": "+90 342 000 00 00",
+  "email": "haber@noktahaber.example",
+  "address": "Gazete Sk. No: 15, Şahinbey, Gaziantep (kurgusal adres)",
+  "font": {
+    "body": "inter",
+    "heading": "inter",
+    "ar": {
+      "body": "ibm-plex-sans-arabic",
+      "heading": "noto-kufi-arabic"
+    }
+  },
+  "colorScheme": "auto",
+  "seo": {
+    "noindex": true
+  },
+  "cssTokens": {
+    "--mx-radius-sm": "0px",
+    "--mx-radius-md": "0px",
+    "--mx-radius-lg": "0px",
+    "--mx-radius-xl": "0px",
+    "--mx-shadow-md": "none",
+    "--mx-dur": "200ms"
+  }
+}

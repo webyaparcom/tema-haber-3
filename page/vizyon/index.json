@@ -1,0 +1,43 @@
+{
+  "name": {
+    "tr": "Vizyon",
+    "en": "Vision",
+    "ar": "الرؤية"
+  },
+  "status": "play",
+  "id": "vizyon",
+  "path": "vizyon",
+  "category": "",
+  "text": {
+    "tr": "<h2>Vizyonumuz</h2>\n<p>Bölgenin güvenilir yerel haber ve rehber kaynağı olmak.</p>",
+    "en": "<h2>Our vision</h2>\n<p>To be the region’s trusted source of local news and guide content.</p>",
+    "ar": "<h2>رؤيتنا</h2>\n<p>أن نكون مصدر الأخبار المحلية والدليل الموثوق في المنطقة.</p>"
+  },
+  "desing": {
+    "header": [],
+    "body": [
+      "2alvhi"
+    ],
+    "footer": []
+  },
+  "desc": {},
+  "index": 2,
+  "icon": "policy",
+  "title": {
+    "tr": "Vizyon",
+    "en": "Vision",
+    "ar": "الرؤية"
+  },
+  "description": {
+    "tr": "Vizyonumuz",
+    "en": "Our vision",
+    "ar": "رؤيتنا"
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "update": "2026-10-31T15:04:21.779Z",
+  "date": "2026-05-19"
+}
