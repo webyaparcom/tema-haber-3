@@ -1,0 +1,39 @@
+{
+  "id": "i9jeinosa4",
+  "name": {
+    "tr": "Galeri",
+    "en": "Gallery",
+    "ar": "المعرض"
+  },
+  "description": {
+    "tr": "Şehir ve haber odası görüntüleri; kişi yoktur.",
+    "en": "City and newsroom images; no people.",
+    "ar": "صور المدينة وغرفة الأخبار؛ دون أشخاص."
+  },
+  "keyword": {
+    "tr": "galeri, fotoğraf",
+    "en": "gallery, photos",
+    "ar": "معرض، صور"
+  },
+  "path": "galeri",
+  "icon": "photo_library",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "gu639c"
+    ],
+    "footer": []
+  },
+  "index": 3,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Galeri",
+    "en": "Gallery",
+    "ar": "المعرض"
+  },
+  "date": "2026-10-31T15:04:21.528Z",
+  "update": "2026-10-31T15:04:21.752Z"
+}

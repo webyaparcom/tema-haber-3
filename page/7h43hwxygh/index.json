@@ -1,0 +1,43 @@
+{
+  "id": "7h43hwxygh",
+  "name": {
+    "tr": "Künye",
+    "en": "Masthead",
+    "ar": "بيانات الإدارة"
+  },
+  "description": {
+    "tr": "Sahibi, sorumlu müdür, yer sağlayıcı ve içerik sağlayıcı bilgisi.",
+    "en": "Owner, editor in charge, hosting provider and content provider details.",
+    "ar": "المالك والمحرر المسؤول ومزوّد الاستضافة ومزوّد المحتوى."
+  },
+  "keyword": {
+    "tr": "künye",
+    "en": "masthead",
+    "ar": "بيانات الإدارة"
+  },
+  "path": "kunye",
+  "icon": "badge",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "2alvhi"
+    ],
+    "footer": []
+  },
+  "index": 0,
+  "url": "",
+  "text": {
+    "tr": "<h2>Künye</h2><p>Nokta Haber, bu demo sitede kurgusal bir yerel haber ve şehir rehberi portalıdır. Aşağıdaki bilgiler örnektir (DEMO).</p><ul><li>Sahibi: Demo Medya Yayıncılık Ltd. Şti. (kurgusal)</li><li>Sorumlu müdür / yayın yönetmeni: Aylin Karaca (kurgusal)</li><li>Yer sağlayıcı: Demo Barındırma Hizmetleri (kurgusal)</li><li>İçerik sağlayıcı (5651 sayılı Kanun md. 3): Demo Medya Yayıncılık Ltd. Şti., İletişim: haber@noktahaber.example</li><li>Elektronik tebligat adresi: noktahaber@hs01.kep.tr (kurgusal)</li></ul><p>Her haberde ilk yayın tarihi ve varsa güncelleme tarihi belirtilir. Bu sitedeki haberler kurgusaldır; resmî ilan yayımlanmaz.</p>",
+    "en": "<h2>Masthead</h2><p>On this demo site Nokta Haber is a fictional local news and city-guide portal. The details below are samples (DEMO).</p><ul><li>Owner: Demo Media Publishing Ltd. (fictional)</li><li>Editor in charge: Aylin Karaca (fictional)</li><li>Hosting provider: Demo Hosting Services (fictional)</li><li>Content provider (Law No. 5651 art. 3): Demo Media Publishing Ltd., contact: haber@noktahaber.example</li><li>Electronic notification address: noktahaber@hs01.kep.tr (fictional)</li></ul><p>Every story shows its first-publication date and, where applicable, its update date. Stories on this site are fictional; no official notices are published.</p>",
+    "ar": "<h2>بيانات الإدارة</h2><p>تُعدّ «نقطة خبر» في هذا الموقع التجريبي بوابة أخبار محلية ودليلًا للمدينة افتراضية. البيانات أدناه أمثلة (DEMO).</p><ul><li>المالك: شركة ميديا التجريبية للنشر (افتراضية)</li><li>رئيس التحرير المسؤول: أيلين كاراجا (افتراضي)</li><li>مزوّد الاستضافة: خدمات استضافة تجريبية (افتراضي)</li><li>مزوّد المحتوى (المادة 3 من القانون التركي رقم 5651): شركة ميديا التجريبية للنشر، التواصل: haber@noktahaber.example</li><li>عنوان التبليغ الإلكتروني: noktahaber@hs01.kep.tr (افتراضي)</li></ul><p>يُذكر في كل خبر تاريخ النشر الأول وتاريخ التحديث عند وجوده. الأخبار في هذا الموقع افتراضية ولا تُنشر إعلانات رسمية.</p>"
+  },
+  "title": {
+    "tr": "Künye",
+    "en": "Masthead",
+    "ar": "بيانات الإدارة"
+  },
+  "date": "2026-10-31T15:04:21.520Z",
+  "update": "2026-10-31T15:04:21.748Z"
+}

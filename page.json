@@ -1,0 +1,147 @@
+{
+  "data": [
+    {
+      "id": "7h43hwxygh",
+      "name": {
+        "tr": "Künye",
+        "en": "Masthead",
+        "ar": "بيانات الإدارة"
+      },
+      "description": {
+        "tr": "Sahibi, sorumlu müdür, yer sağlayıcı ve içerik sağlayıcı bilgisi.",
+        "en": "Owner, editor in charge, hosting provider and content provider details.",
+        "ar": "المالك والمحرر المسؤول ومزوّد الاستضافة ومزوّد المحتوى."
+      },
+      "path": "kunye",
+      "icon": "badge",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "2alvhi"
+        ],
+        "footer": []
+      },
+      "index": 0
+    },
+    {
+      "id": "dru7usgwc0",
+      "name": {
+        "tr": "Bölümler",
+        "en": "Sections",
+        "ar": "الأقسام"
+      },
+      "description": {
+        "tr": "Bu sayfadaki başlıklar ve haberler kurgusal örneklerdir.",
+        "en": "Headlines and stories on this page are fictional samples.",
+        "ar": "العناوين والأخبار في هذه الصفحة نماذج افتراضية."
+      },
+      "path": "kategoriler",
+      "icon": "newspaper",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "fdcx58",
+          "9yej10",
+          "39cooh"
+        ],
+        "footer": []
+      },
+      "index": 1
+    },
+    {
+      "id": "k8ra60hdcp",
+      "name": {
+        "tr": "Haber Gönder",
+        "en": "Send a Story",
+        "ar": "أرسل خبرًا"
+      },
+      "description": {
+        "tr": "Konuyu ve uygun günü seçin; talebiniz bu demo sitede yalnızca tarayıcınızda oluşturulur.",
+        "en": "Choose a topic and a convenient day; on this demo site your request is created only in your browser.",
+        "ar": "اختر الموضوع واليوم المناسب؛ يُنشأ طلبك في متصفحك فقط."
+      },
+      "path": "haber-gonder",
+      "icon": "edit_note",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "1xo82h"
+        ],
+        "footer": []
+      },
+      "index": 2
+    },
+    {
+      "id": "i9jeinosa4",
+      "name": {
+        "tr": "Galeri",
+        "en": "Gallery",
+        "ar": "المعرض"
+      },
+      "description": {
+        "tr": "Şehir ve haber odası görüntüleri; kişi yoktur.",
+        "en": "City and newsroom images; no people.",
+        "ar": "صور المدينة وغرفة الأخبار؛ دون أشخاص."
+      },
+      "path": "galeri",
+      "icon": "photo_library",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "gu639c"
+        ],
+        "footer": []
+      },
+      "index": 3
+    },
+    {
+      "name": {
+        "tr": "İletişim",
+        "en": "Contact",
+        "ar": "اتصل بنا"
+      },
+      "status": "play",
+      "category": "",
+      "id": "xnzu5au0ag",
+      "url": "",
+      "path": "iletisim",
+      "index": 4,
+      "icon": "call",
+      "desing": {
+        "header": [],
+        "body": [
+          "vi6ke3",
+          "mdl1ct",
+          "43phxf"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Adres, telefon, e-posta ve çalışma saatleri.",
+        "en": "Address, phone, e-mail and opening hours.",
+        "ar": "العنوان والهاتف والبريد الإلكتروني وساعات العمل."
+      }
+    }
+  ],
+  "desc": [],
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "modulestatus": {
+    "page": true,
+    "bgimg": true,
+    "detail": true,
+    "body": true
+  }
+}

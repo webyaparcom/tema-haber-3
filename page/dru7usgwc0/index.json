@@ -1,0 +1,41 @@
+{
+  "id": "dru7usgwc0",
+  "name": {
+    "tr": "Bölümler",
+    "en": "Sections",
+    "ar": "الأقسام"
+  },
+  "description": {
+    "tr": "Bu sayfadaki başlıklar ve haberler kurgusal örneklerdir.",
+    "en": "Headlines and stories on this page are fictional samples.",
+    "ar": "العناوين والأخبار في هذه الصفحة نماذج افتراضية."
+  },
+  "keyword": {
+    "tr": "haber, şehir rehberi, yerel haber",
+    "en": "news, city guide, local news",
+    "ar": "أخبار، دليل المدينة، أخبار محلية"
+  },
+  "path": "kategoriler",
+  "icon": "newspaper",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "fdcx58",
+      "9yej10",
+      "39cooh"
+    ],
+    "footer": []
+  },
+  "index": 1,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Bölümler",
+    "en": "Sections",
+    "ar": "الأقسام"
+  },
+  "date": "2026-10-31T15:04:21.517Z",
+  "update": "2026-10-31T15:04:21.746Z"
+}
