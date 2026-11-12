@@ -45,7 +45,6 @@
         "header": [],
         "body": [
           "fdcx58",
-          "9yej10",
           "39cooh"
         ],
         "footer": []
@@ -78,6 +77,33 @@
       "index": 2
     },
     {
+      "id": "nmw0hqu4ri",
+      "name": {
+        "tr": "Yayın ilkeleri",
+        "en": "Editorial principles",
+        "ar": "مبادئ النشر"
+      },
+      "description": {
+        "tr": "Doğrulama, tarihleme ve düzeltme ilkeleri.",
+        "en": "Our verification, dating and correction principles.",
+        "ar": "مبادئ التحقق والتأريخ والتصحيح."
+      },
+      "path": "yayin-ilkeleri",
+      "icon": "rule",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "9yej10",
+          "39cooh"
+        ],
+        "footer": []
+      },
+      "index": 3,
+      "pathnext": ""
+    },
+    {
       "id": "i9jeinosa4",
       "name": {
         "tr": "Galeri",
@@ -100,7 +126,7 @@
         ],
         "footer": []
       },
-      "index": 3
+      "index": 4
     },
     {
       "name": {
@@ -113,7 +139,7 @@
       "id": "xnzu5au0ag",
       "url": "",
       "path": "iletisim",
-      "index": 4,
+      "index": 5,
       "icon": "call",
       "desing": {
         "header": [],
@@ -130,6 +156,33 @@
         "en": "Address, phone, e-mail and opening hours.",
         "ar": "العنوان والهاتف والبريد الإلكتروني وساعات العمل."
       }
+    },
+    {
+      "id": "p9aarxfo1m",
+      "name": {
+        "tr": "Yayın ilkeleri",
+        "en": "Editorial principles",
+        "ar": "مبادئ النشر"
+      },
+      "description": {
+        "tr": "Doğrulama, tarihleme ve düzeltme ilkeleri.",
+        "en": "Our verification, dating and correction principles.",
+        "ar": "مبادئ التحقق والتأريخ والتصحيح."
+      },
+      "path": "yayin-ilkeleri",
+      "icon": "rule",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "9yej10",
+          "39cooh"
+        ],
+        "footer": []
+      },
+      "index": 6,
+      "pathnext": ""
     }
   ],
   "desc": [],

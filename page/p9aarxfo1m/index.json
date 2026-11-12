@@ -1,0 +1,41 @@
+{
+  "id": "p9aarxfo1m",
+  "name": {
+    "tr": "Yayın ilkeleri",
+    "en": "Editorial principles",
+    "ar": "مبادئ النشر"
+  },
+  "description": {
+    "tr": "Doğrulama, tarihleme ve düzeltme ilkeleri.",
+    "en": "Our verification, dating and correction principles.",
+    "ar": "مبادئ التحقق والتأريخ والتصحيح."
+  },
+  "keyword": {
+    "tr": "yayın ilkeleri, doğrulama, düzeltme",
+    "en": "editorial principles, verification, corrections",
+    "ar": "مبادئ النشر، التحقق، التصحيح"
+  },
+  "path": "yayin-ilkeleri",
+  "icon": "rule",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "9yej10",
+      "39cooh"
+    ],
+    "footer": []
+  },
+  "index": 6,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Yayın ilkeleri",
+    "en": "Editorial principles",
+    "ar": "مبادئ النشر"
+  },
+  "date": "2026-11-12T07:27:06.880Z",
+  "update": "2026-11-12T07:29:09.364Z",
+  "pathnext": ""
+}
