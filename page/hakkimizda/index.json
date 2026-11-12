@@ -9,7 +9,9 @@
   "path": "hakkimizda",
   "category": "",
   "text": {
-    "tr": "<h2 style=\"font-size: 24px;\">Hakkımızda</h2>\n    <p style=\" font-size: 16px;\">\n        Biz, müşteri memnuniyetini her zaman ön planda tutarak, sektördeki en iyi hizmeti sunmayı hedefleyen bir firmayız. Yenilikçi ve yaratıcı yaklaşımlarımızla, her projede maksimum verim ve etkinliği sağlamak için çalışıyoruz. Ekibimiz, alanında uzman profesyonellerden oluşmakta ve sürekli olarak gelişim ve eğitim fırsatları ile desteklenmektedir. Bu sayede, hem müşteri taleplerini en iyi şekilde karşılıyor hem de sektördeki en son gelişmeleri takip ederek, müşterilerimize katma değer sağlayacak çözümler sunuyoruz.\n    </p>\n    <p style=\" font-size: 16px;\">\n        Vizyonumuz, sektörümüzdeki en güvenilir ve tercih edilen firma olmaktır. Bunun için, iş süreçlerimizi sürekli gözden geçiriyor, iyileştiriyor ve geliştirmeye odaklanıyoruz. Müşterilerimizin geri bildirimlerini dikkate alarak, ihtiyaçlarına en uygun çözümleri sunmak için çaba gösteriyoruz. Müşteri odaklı bir yaklaşım benimsememiz, işimizi daha da büyütmemize yardımcı oluyor ve sektördeki konumumuzu güçlendiriyor. Bizimle çalışan her müşteri, kalite ve güven arayışında olduğu için, onlara her zaman en iyi deneyimi sunmayı amaçlıyoruz.\n    </p>\n    <p style=\" font-size: 16px;\">\n        Misyonumuz, çevre dostu uygulamalarla, sürdürülebilir bir gelecek için katkıda bulunmaktır. Çalışma şeklimiz, doğaya zarar vermeden, en iyi sonuçları elde etmek üzerine kuruludur. Bu bağlamda, teknolojinin sunduğu yeniliklerden yararlanarak, enerji verimliliğini artırmaya ve kaynakları en verimli şekilde kullanmaya özen gösteriyoruz. Bu sayede, sadece müşterilerimize değil, aynı zamanda topluma ve çevreye de olumlu bir etki yaratmayı amaçlıyoruz. İleriye dönük hedeflerimiz, bu misyon doğrultusunda daha fazla proje geliştirmek ve daha fazla insanın hayatına dokunmaktır.\n    </p>"
+    "tr": "<h2>Hakkımızda</h2><p>Nokta Haber, yerel haberi iki kaynakla doğrulayıp tarihleyerek yayımlayan kurgusal bir demo portaldır. Haberler, kişiler ve kurumlar kurgusaldır; resmî ilan yayımlanmaz.</p><p>İlk yayın tarihi haberde değişmeden yazılır; düzeltme ve güncellemeler ayrıca tarihlenir. Sahiplik ve sorumlu müdür bilgilerine Künye sayfasından ulaşabilirsiniz.</p>",
+    "en": "<h2>About us</h2><p>Nokta Haber is a fictional demo portal that verifies local news with two sources and publishes it with dates. Stories, people and organisations are fictional; no official notices are published.</p><p>The first-publication date is stated unchanged on the story; corrections and updates are dated separately. Ownership and editor details are on the Masthead page.</p>",
+    "ar": "<h2>من نحن</h2><p>نقطة خبر بوابة تجريبية افتراضية تتحقق من الأخبار المحلية بمصدرين وتنشرها مؤرخة. الأخبار والأشخاص والمؤسسات افتراضية، ولا تُنشر إعلانات رسمية.</p><p>يُذكر تاريخ النشر الأول في الخبر دون تغيير، وتُؤرَّخ التصحيحات والتحديثات بشكل منفصل. تجدون بيانات الملكية والمحرر المسؤول في صفحة بيانات الإدارة.</p>"
   },
   "desing": {
     "header": [],
@@ -37,6 +39,6 @@
     "en": "about",
     "ar": "من نحن"
   },
-  "update": "2026-10-31T15:04:21.754Z",
+  "update": "2026-11-12T07:35:58.836Z",
   "date": "2026-05-19"
 }
